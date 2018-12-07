@@ -17,7 +17,6 @@ enum Ranks
 	RANK_12 = 15000,
 	RANK_13 = 20000,
 	RANK_14 = 25000,
-	RANK_15 = 50000,
 };
 
 class PVPTitles : public PlayerScript
@@ -132,9 +131,6 @@ public:
 				else
 					Killer->SetTitle(sCharTitlesStore.LookupEntry(14));
 				break;
-			case RANK_15:
-				Killer->SetTitle(sCharTitlesStore.LookupEntry(128));
-				break;	
 			}
 		}
 	}
