@@ -1,8 +1,8 @@
-## mod-learnspells
+## mod-pvptitles
 
-# LearnAllSpells module for AzerothCore.
+# PvPTitles module for AzerothCore.
 
-LearnAllSpells teach new spells on level-up, like in Cataclysm and up.
+PvPTitles Vanilla for Azerothcore obtained with Honorable Kills
 
 # Original script:
-http://www.ac-web.org/forums/showthread.php?172918-C-Automatically-Learn-New-Spells
+I'v find this script in the conan513 repository and updated to make him fully functional.
